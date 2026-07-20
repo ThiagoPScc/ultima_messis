@@ -38,9 +38,4 @@ O jogo é um **gerenciamento baseado em turnos**. O tempo não passa. O "Dia" (t
 **Engine:** [Unity]
 **Plataforma Alvo:** PC (Steam)
 
-## 🗺️ Cronograma (Simplificado)
-Nosso plano de 18 meses para o lançamento:
-* **Fase 1 (Meses 1-3):** Protótipo do *Core Loop*. (Prova de Conceito).
-* **Fase 2 (Meses 4-14):** Produção (Alpha). (Construção de todo o conteúdo: 20 plantas, 50+ Artefatos, Eventos, etc).
-* **Fase 3 (Meses 15-17):** Beta. (Balanceamento, Polimento e Correção de Bugs).
-* **Fase 4 (Mês 18):** Lançamento.
+
